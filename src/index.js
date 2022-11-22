@@ -4,3 +4,4 @@ function printHello(msg) {
     console.log(msg);
     debugger;
 }
+printHello();
