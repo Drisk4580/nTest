@@ -1,7 +1,7 @@
 # coding hints
 
 html:
-    -
+    -<strong></strong> is used for making bold text, <em> is used for embeded
 css:
     -
 js:
