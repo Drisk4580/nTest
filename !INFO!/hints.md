@@ -1,12 +1,12 @@
 # coding hints
 
 html:
-    -<strong></strong> is used for making bold text, <em> is used for embeded
-    alt atribute for for images
+    -<strong></strong> is used for making bold text, <em> is used for embedded
+    alt attribute for for images
 css:
     -
 js:
-    -debugger as a js function is used to test code and tell whats happening for example when something isnt working
+    -debugger as a js function is used to test code and tell whats happening for example when something isn't working
 general:
     -asking good questions:
         -describe clearly
