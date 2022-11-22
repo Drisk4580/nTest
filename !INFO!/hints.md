@@ -2,6 +2,7 @@
 
 html:
     -<strong></strong> is used for making bold text, <em> is used for embeded
+    alt atribute for for images
 css:
     -
 js:
